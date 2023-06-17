@@ -1,0 +1,41 @@
+body {
+    background-color: #f7f6f2;
+}
+
+.frame {
+    display: inline-block;
+    padding: 12px;
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.frame::after, .frame::before {
+    content: '';
+    position: absolute;
+    z-index: 2;
+    width: 70px;
+    height: 70px;
+    left: -40px;
+    bottom: -40px;
+    transform: rotate(45deg);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+    background: f7f6f2;
+    outline: gray dashed 1px;
+    outline-offset: -3px;
+    background: #f7f6f2;
+}
+
+.frame::after {
+    left: auto;
+    right: -40px;
+    top: -40px;
+
+}
+
+.frame img {
+    border: 2px solid black;
+    display: block;
+    padding: 4px;
+    background: #dad6cf;
+}
