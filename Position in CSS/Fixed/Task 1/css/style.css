@@ -1,0 +1,18 @@
+nav {
+    position: fixed;
+    background-color: #edf6ff;
+    width: 160px;
+    padding: 10px;
+    right: 0;
+    top: 200px;
+    margin: 10px;
+
+}
+
+a {
+    color: #1b4268;
+}
+
+ul {
+    list-style: none;   
+}
