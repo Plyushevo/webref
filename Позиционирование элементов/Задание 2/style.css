@@ -1,0 +1,20 @@
+body {
+    background: #f7f6f2;
+
+}
+
+.bg {
+    min-height: 200px;
+    background: #A1bd57;
+}
+
+.content {
+    background: white;
+    position: relative;
+    border: 2px solid gray;
+    width: 400px;
+    min-height: 250px;
+    top: -100px;
+    margin: auto;
+    /* left: 200px; */
+}
