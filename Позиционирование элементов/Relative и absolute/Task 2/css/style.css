@@ -1,0 +1,19 @@
+figure {
+    position: relative;
+    display: inline-block;
+}
+
+img {
+    display: block;
+}
+
+.expand {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.5);
+    margin: 10px;
+    width: 30px;
+    border: 1px solid gray;
+    padding: 5px;
+}
