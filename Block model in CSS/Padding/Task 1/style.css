@@ -1,0 +1,22 @@
+p {
+    font-family: Oswald, sans-serif
+}
+span {
+    padding: 5px;
+    background: #f9e3b2;
+}
+.light {
+    font-weight: 300;
+}
+.regular {
+    font-weight: 400;
+}
+.medium {
+    font-weight: 500;
+}
+.semi-bold {
+    font-weight: 600;
+}
+.bold {
+    font-weight: 700;
+}
