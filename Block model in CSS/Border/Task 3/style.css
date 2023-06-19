@@ -1,0 +1,35 @@
+.first {
+    color: white;
+    background-color: violet;
+    padding: 0;
+    outline: 2px solid white;
+    outline-offset: -4px;
+}
+
+.first > p {
+    padding: 15px 15px;
+}
+
+table {
+    background-color: blueviolet;
+    color: white;
+    width: 100%;
+}
+
+td {
+    border: 2px solid white;
+    padding: 10px;
+}
+
+p {
+    margin: 0;
+}
+.third {
+    background-color: tomato;
+    padding: 10px;
+    margin: 2px;
+    border: 2px solid white;
+    outline: 2px solid tomato;
+    color: white;
+
+}
