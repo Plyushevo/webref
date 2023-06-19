@@ -1,0 +1,7 @@
+p {
+    background: #b2d235;
+    border: 1px solid white;
+    padding: 40px;
+    outline: 2px solid white;
+    outline-offset: -20px;
+}
