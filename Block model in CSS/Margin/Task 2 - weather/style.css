@@ -1,0 +1,16 @@
+.forecast {
+    background-color: cornflowerblue;
+    color: white;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    margin: 7px;
+}
+figure {
+    padding: 0;
+    margin: 0;
+}
+body {
+    margin: auto;
+    width: 80%;
+}
