@@ -1,0 +1,30 @@
+.article {
+    background-color: gray;
+    /* display: inline-block; */
+    /* vertical-align: top; */
+    box-sizing: border-box;
+    padding: 20px;
+    width: fit-content;
+}
+
+.p {
+    display: inline-block;
+    width: 120px;
+    vertical-align: top;
+    font-weight: normal;
+    margin: 0 0 0 10px;
+    padding: 0;
+}
+
+/* p {
+    display: inline;
+} */
+
+figure {
+    display: inline-block;
+    text-align: right;
+    padding-right: 10px;
+    border-right: 2px solid #be8f59;
+    margin: 0;
+
+}
