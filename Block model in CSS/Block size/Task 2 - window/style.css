@@ -1,0 +1,20 @@
+body {
+    background-color: #497775;
+}
+
+div {
+    width: 300px;
+    height: 200px;
+    box-sizing: border-box;
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    overflow: auto;
+    border-radius: 7px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+p {
+    margin: 0;
+    font-weight: 500;
+}
