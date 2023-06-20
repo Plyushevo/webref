@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: chartreuse;
+}
+.form {
+    background-color: antiquewhite;
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    box-shadow: 0 0 5px rgba(0,0,0, 0.5);
+    box-sizing: border-box;
+}
+
+.form div {
+    margin-top: 15px;
+}
+
+.form div:first-child { margin: 0;}
+.form input, .form button {
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+}
