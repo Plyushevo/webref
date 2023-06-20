@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(237, 237, 237);
+}
+
+ul {
+    padding-left: 10px;
+    
+}
+li {
+    list-style: none;
+    font-size: 20px;
+    display: inline;
+    
+}
+li span {
+    border-bottom: 1px solid black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+    
+}
+
+div {
+    width: 450px;
+    background-color: #fff;
+    padding-bottom: 5px;
+    
+}
+
+h2  {
+    margin: 0;
+    background-color: rgb(213, 213, 213);
+    padding: 5px 0;
+}
+h2 span {
+    background-color: red;
+    padding: 5px 10px;
+    color: white;
+    text-transform: uppercase;
+    
+    /* margin: 0; */
+}
